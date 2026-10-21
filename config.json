@@ -1,122 +1,149 @@
 {
-  "profile": {
-    "title": "GIS & Wildfire Research Job Tracker",
-    "subtitle": "Orlando Area · Remote",
-    "emoji": "🔥"
-  },
+  "profile": {},
   "keywords": {
     "include": [
-      "GIS analyst",
-      "geospatial analyst",
-      "remote sensing analyst",
-      "data scientist",
-      "environmental data scientist",
-      "spatial analyst",
-      "GIS specialist",
-      "geospatial data scientist",
-      "land use analyst",
-      "wildfire analyst",
-      "fire ecology",
-      "conservation analyst",
-      "environmental analyst",
-      "ecological analyst",
-      "research scientist",
-      "geospatial scientist",
-      "earth observation analyst",
-      "climate analyst",
-      "landscape analyst",
-      "environmental scientist"
+      "remote customer service representative",
+      "entry level customer service representative",
+      "remote appointment scheduling representative",
+      "remote appointment scheduler",
+      "remote order entry clerk",
+      "remote data entry clerk",
+      "remote customer support representative",
+      "customer care representative",
+      "customer service associate",
+      "customer support associate",
+      "email support representative",
+      "chat support representative",
+      "remote scheduling coordinator",
+      "appointment coordinator",
+      "patient appointment scheduler",
+      "order processing clerk",
+      "order management associate",
+      "data entry associate",
+      "administrative assistant",
+      "virtual assistant",
+      "intake coordinator",
+      "service coordinator"
     ],
     "exclude": [
       "intern",
       "internship",
       "co-op",
       "trainee",
+      "senior",
+      "manager",
+      "supervisor",
+      "team lead",
+      "lead",
+      "director",
+      "executive",
+      "principal",
       "junior developer",
-      "junior software",
+      "software developer",
       "postdoc",
       "research technician",
-      "administrative",
-      "sales",
-      "recruiter"
+      "commission only",
+      "1099",
+      "independent contractor",
+      "freelance",
+      "unpaid"
     ]
   },
   "search_terms": {
     "linkedin": [
-      "GIS analyst",
-      "geospatial analyst remote sensing",
-      "data scientist environmental",
-      "GIS specialist wildfire",
-      "spatial analyst conservation",
-      "remote sensing analyst",
-      "fire ecology researcher",
-      "landscape ecology analyst",
-      "environmental GIS",
-      "earth observation data",
-      "land use land cover analyst",
-      "climate data scientist",
-      "geospatial data scientist",
-      "environmental scientist GIS",
-      "research scientist geospatial",
-      "conservation technology",
-      "ecological modeler",
-      "wildland urban interface",
-      "natural resource analyst",
-      "environmental research"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote email support representative",
+      "remote chat support agent",
+      "remote appointment scheduler",
+      "remote appointment scheduling representative",
+      "remote scheduling coordinator",
+      "remote order entry clerk",
+      "remote order processing associate",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator",
+      "remote patient scheduling"
     ],
     "indeed": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environmental",
-      "remote sensing analyst",
-      "spatial analyst",
-      "fire ecology",
-      "conservation scientist"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote email support representative",
+      "remote chat support",
+      "remote appointment scheduler",
+      "remote scheduling coordinator",
+      "remote order entry clerk",
+      "remote order processing associate",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator"
     ],
     "glassdoor": [
-      "GIS analyst",
-      "geospatial data scientist",
-      "environmental analyst",
-      "remote sensing specialist",
-      "research scientist",
-      "conservation analyst",
-      "climate analyst"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote email support representative",
+      "remote chat support",
+      "remote appointment scheduler",
+      "remote scheduling coordinator",
+      "remote order entry clerk",
+      "remote order processing associate",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator"
     ],
     "ziprecruiter": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environment",
-      "remote sensing",
-      "spatial analysis",
-      "environmental scientist",
-      "wildfire analyst"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote email support representative",
+      "remote chat support",
+      "remote appointment scheduler",
+      "remote scheduling coordinator",
+      "remote order entry clerk",
+      "remote order processing associate",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator"
     ],
     "google_jobs": [
-      "GIS analyst",
-      "geospatial data scientist",
-      "environmental analyst remote",
-      "remote sensing analyst",
-      "conservation science",
-      "fire ecology research"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote email support representative",
+      "remote chat support",
+      "remote appointment scheduler",
+      "remote scheduling coordinator",
+      "remote order entry clerk",
+      "remote order processing associate",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator"
     ],
     "hiring_cafe": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environment",
-      "remote sensing",
-      "environmental researcher"
+      "remote part time customer service representative",
+      "entry level remote customer service",
+      "remote customer support associate",
+      "remote appointment scheduler",
+      "remote order entry clerk",
+      "remote data entry clerk",
+      "remote administrative assistant",
+      "remote virtual assistant",
+      "remote intake coordinator"
     ]
   },
   "locations": {
     "linkedin": [
       {
-        "name": "Orlando, FL",
-        "location": "Orlando, Florida, United States",
-        "geoId": ""
-      },
-      {
-        "name": "Central Florida",
-        "location": "Central Florida, United States",
+        "name": "California",
+        "location": "California, United States",
         "geoId": ""
       },
       {
@@ -127,41 +154,41 @@
     ],
     "indeed": [
       {
-        "location": "Orlando, FL",
+        "location": "California",
         "country": "USA"
       },
       {
-        "location": "Florida",
+        "location": "Remote",
         "country": "USA"
       }
     ],
     "glassdoor": [
       {
-        "location": "Orlando, FL",
+        "location": "California",
         "country": "USA"
       },
       {
-        "location": "Florida",
+        "location": "Remote",
         "country": "USA"
       }
     ],
     "ziprecruiter": [
       {
-        "location": "Orlando, FL",
+        "location": "California",
         "country": "USA"
       },
       {
-        "location": "Central Florida",
+        "location": "Remote",
         "country": "USA"
       }
     ],
     "google_jobs": [
       {
-        "location": "Orlando, FL",
+        "location": "California",
         "country": "USA"
       },
       {
-        "location": "Florida",
+        "location": "Remote",
         "country": "USA"
       }
     ],
@@ -187,56 +214,56 @@
   "priority_topics": {
     "terms": [
       [
-        "Wildfire & Fire Ecology",
-        "wildfire|fire ecology|fire dynamics|fire behavior|fire management|prescribed fire"
+        "Customer Service",
+        "customer service|customer support|customer care|client support"
       ],
       [
-        "Wildland-Urban Interface",
-        "wildland.urban interface|WUI|wildland urban"
+        "Appointment Scheduling",
+        "appointment scheduling|appointment scheduler|scheduling coordinator|patient scheduler"
       ],
       [
-        "Remote Sensing & Earth Observation",
-        "remote sensing|earth observation|satellite imagery|NDVI|Landsat|Sentinel"
+        "Order Entry",
+        "order entry|order processing|order management"
       ],
       [
-        "Geospatial Analysis",
-        "GIS|geospatial|spatial analysis|ArcGIS|QGIS|Google Earth Engine"
+        "Data Entry",
+        "data entry|records entry|database updates"
       ],
       [
-        "Land-Use & Environmental Change",
-        "land.use|land cover|LULC|land conversion|woody cover|forest dynamics"
+        "Administrative Support",
+        "administrative assistant|virtual assistant|office support|intake coordinator"
+      ],
+      [
+        "Email & Chat Support",
+        "email support|chat support|written customer support"
       ]
     ]
   },
   "role_categories": {
     "terms": [
       [
-        "GIS & Geospatial Specialist",
-        "GIS|geospatial|spatial analyst"
+        "Customer Service",
+        "customer service|customer support|customer care|client support"
       ],
       [
-        "Data Scientist (Environmental)",
-        "data scientist|environmental analyst|conservation analyst"
+        "Appointment Scheduling",
+        "appointment scheduling|appointment scheduler|scheduling coordinator|patient scheduler"
       ],
       [
-        "Remote Sensing & Earth Observation",
-        "remote sensing|earth observation|satellite|imagery"
+        "Order Entry & Processing",
+        "order entry|order processing|order management"
       ],
       [
-        "Wildfire & Fire Science",
-        "wildfire|fire ecology|fire management|fire behavior"
+        "Data Entry",
+        "data entry|records entry|database updates"
       ],
       [
-        "Research Scientist",
-        "research scientist|research associate|research analyst"
+        "Administrative Support",
+        "administrative assistant|virtual assistant|office support|intake coordinator"
       ],
       [
-        "Environmental & Conservation",
-        "environmental|conservation|ecology|natural resource"
-      ],
-      [
-        "Climate & Landscape Science",
-        "climate|landscape|hydrology|watershed"
+        "Email & Chat Support",
+        "email support|chat support|written customer support"
       ]
     ]
   },
